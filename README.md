@@ -3,6 +3,8 @@
 - :construction_worker: Engenheiro Mecatrônico;
 - :computer: Estudando JAVA;
 - :calling:  Estou desenvolvendo um app como projeto pessoal na linguagem Kotlin.
+#
+   ## <img src="https://komarev.com/ghpvc/?username=engpauloandrade&color=green" alt="engpauloandrade" />
 
 ##
 
