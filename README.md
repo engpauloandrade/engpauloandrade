@@ -4,7 +4,7 @@
 
 - :construction_worker: Engenheiro Mecatrônico;
 - :computer: Estudando JAVA;
-- :calling:  Estou desenvolvendo um app como projeto pessoal na linguagem Kotlin;
+- :calling:  Estou desenvolvendo um app como projeto pessoal em Android;
 - 📔 Participando de alguns bootcamps da Digital Innovation One (DIO).
 #
    ## <img src="https://komarev.com/ghpvc/?username=engpauloandrade&color=green" alt="engpauloandrade" />
@@ -20,7 +20,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 
-  <img align="center" alt="Paulo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Paulo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
      
   <img align="center" alt="Paulo-Kotlin" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
      
