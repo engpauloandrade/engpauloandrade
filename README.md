@@ -3,9 +3,9 @@
 ### Eu sou o Paulo, seja bem-vindo (a)!
 
 - :construction_worker: Engenheiro Mecatrônico;
-- :computer: Estudando JAVA;
+- :computer: Programador na empresa Frenet;
 - :calling:  Estou desenvolvendo um app como projeto pessoal em Android;
-- 📔 Participando de alguns bootcamps da Digital Innovation One (DIO).
+
 #
    ## <img src="https://komarev.com/ghpvc/?username=engpauloandrade&color=green" alt="engpauloandrade" />
 
