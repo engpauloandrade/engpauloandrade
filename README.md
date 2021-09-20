@@ -24,7 +24,7 @@
      
   <img align="center" alt="Paulo-sqlserver" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
      
-      <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
+  <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
      
      
      
