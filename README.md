@@ -3,7 +3,7 @@
 ### Eu sou o Paulo, seja bem-vindo (a)!
 
 - :construction_worker: Engenheiro Mecatrônico;
-- :computer: Programador na empresa Frenet .NET-C# | SQLServer;
+- :computer: Programador na empresa Frenet - .NET-C# | SQLServer;
 - :calling:  Estou desenvolvendo um app como projeto pessoal em Android;
 
 #
