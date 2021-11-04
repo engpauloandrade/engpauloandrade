@@ -4,7 +4,7 @@
 
 - :construction_worker: Engenheiro Mecatrônico;
 - :computer: Programador na empresa Frenet - .NET-C# | SQLServer;
-- :calling:  Estou desenvolvendo um app como projeto pessoal em Android;
+- :calling:  Estou desenvolvendo um app como projeto pessoal para Android utilizando o Xamarin Forms.;
 
 #
    ## <img src="https://komarev.com/ghpvc/?username=engpauloandrade&color=green" alt="engpauloandrade" />
