@@ -8,7 +8,7 @@
 
 #
    ## <img src="https://komarev.com/ghpvc/?username=engpauloandrade&color=green" alt="engpauloandrade" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=engpauloandrade&theme=dracula&layout=compact" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deandradeph&theme=dracula&layout=compact" />
 
 ##
 
