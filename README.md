@@ -9,6 +9,7 @@
 #
    ## <img src="https://komarev.com/ghpvc/?username=engpauloandrade&color=green" alt="engpauloandrade" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deandradeph&theme=dracula&layout=compact" />
+   [![wakatime](https://wakatime.com/badge/user/75e04c6a-674e-452a-8d7d-4fc5400a2034.svg)](https://wakatime.com/@75e04c6a-674e-452a-8d7d-4fc5400a2034)
 
 ##
 
