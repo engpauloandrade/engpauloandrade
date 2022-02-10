@@ -1,14 +1,14 @@
 ### Olá!! 
 
 ### Eu sou o Paulo, seja bem-vindo (a)!
-### Hello!! I'm Paulo. Welcome!
+
 
 - :construction_worker: Engenheiro Mecatrônico;
 - :computer: Programador na empresa Frenet - .NET-C# | SQLServer;
 - :calling:  Estou desenvolvendo um app como projeto pessoal para Android utilizando o Xamarin Forms.;
 
 #
-
+### Hello!! I'm Paulo. Welcome!
 - :construction_worker: Mecatronic Engineer;
 - :computer: Software developer at Frenet - .NET-C# | SQLServer;
 - :calling:  I'm developing an app as a personal project for Android using Xamarin Forms.;
