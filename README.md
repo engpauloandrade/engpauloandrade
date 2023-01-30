@@ -4,7 +4,7 @@
 
 
 - :construction_worker: Engenheiro Mecatrônico;
-- :computer: Programador Full Stack na empresa Luz Engenharia Financeira - .NET-C# | SQLServer;
+- :computer: Programador Full Stack na empresa Luz Engenharia Financeira - .NET-C# | SQLServer | Angular
 
 #
 ### Hello!! 
@@ -13,7 +13,7 @@
 
 
 - :construction_worker: Mecatronic Engineer;
-- :computer: Software developer Full Stack at Luz Engenharia Financeira - .NET-C# | SQLServer;
+- :computer: Software developer Full Stack at Luz Engenharia Financeira - .NET-C# | SQLServer | Angular
 
 
 #
