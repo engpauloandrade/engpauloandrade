@@ -31,14 +31,19 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+
 
   <img align="center" alt="Paulo-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
      
   <img align="center" alt="Paulo-sqlserver" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
      
-  <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
      
+  <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+  
+  <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  
+  <img align="center" alt="Paulo-android" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">   
      
      
 </div>
